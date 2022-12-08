@@ -21,10 +21,10 @@
             "description": "1f0cb59952b8ff729d723e2b01b46f18"
         },
         "BOT_TOKEN": {
-            "description": "Get this value from @BotFather"
+            "description": "5973434698:AAFP9ELvN8NwgOxADb-n-op2xa2OgNRof34"
         },
         "BIN_CHANNEL": {
-            "description": "The BIN Channel ID. Read the readme for more info about this var"
+            "description": "-1001776547700"
         },
         "WORKERS": {
             "description": "Number of workers that is to be assigned. Read the readme for more info about this var",
@@ -35,7 +35,7 @@
             "required": false
         },        
         "OWNER_ID": {
-            "description": "Your Telegram User ID"
+            "description": "5559815092"
         }
     },
     "buildpacks": [{
